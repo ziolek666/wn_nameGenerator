@@ -1,1 +1,1 @@
-Generates random and funny animal names in polish.
+Generates random and funny (hopefully) animal names in polish.
