@@ -8,14 +8,15 @@ var femaleAnimals = [
 "Żaba", "Żabka", "Mysz", 
 ]
 
-var maleAdjectives = ["Zwinny", "Szybki", "Srebrny", "Różowy", "Złoty", "Zielonkawy", "Inkrustowany", "Ospały", "Opieszały", "Zasapany", "Zbzikowany", "Beztroski",
-"Wysportowany", "Zgrabny", "Dumny", "Wyjustowany", "Zdegustowany", "Zagubiona", "Szlachetny", "Nietuzinkowy", "Pomocny", "Spóźniony", "Zaspany", "Niewyspany",
-"Radioaktywny", "Szczery", "Szczęśliwy"
+var maleAdjectives = [
+"Zwinny", "Szybki", "Srebrny", "Różowy", "Złoty", "Zielonkawy", "Inkrustowany", "Ospały", "Opieszały", "Zasapany", "Zbzikowany", "Beztroski",
+"Wysportowany", "Zgrabny", "Dumny", "Wyjustowany", "Zdegustowany", "Zagubiony", "Szlachetny", "Nietuzinkowy", "Pomocny", "Spóźniony", "Zaspany", "Niewyspany",
+"Radioaktywny", "Szczery", "Szczęśliwy", "Rudy", "Krzyczący", "Złotowłosy", "Uprzejmy"
 ]
 
 var femaleAdjectives = ["Miła", "Zgrabna", "Nieśmiała", "Złota", "Różowa", "Zielonkawa", "Szybka", "Sprytna", "Beztroska", "Uważna", "Ostrożna", "Skupiona", "Duża",
 "Zwarta", "Pędząca", "Znudzona", "Niecierpliwa", "Skoncentrowana", "Zagubiona", "Nietuzinkowa", "Szlachetna", "Pomocna", "Zdolna", "Zaspana", "Spóźniona", "Niewyspana",
-"Tańcząca", "Pogodna", "Promieniująca", "Szczera", "Szczęśliwa"
+"Tańcząca", "Pogodna", "Promieniująca", "Szczera", "Szczęśliwa", "Ruda", "Sceptyczna", "Krzycząca", "Złotowłosa", "Uprzejmy"
 ]
 
 var generate = function () {
