@@ -8,7 +8,8 @@ var femaleAnimals = [
 "Żaba", "Żabka", "Mysz", 
 ]
 
-var maleAdjectives = ["Zwinny", "Szybki", "Srebrny", "Różowy", "Złoty", "Zielonkawy", "Inkrustowany", "Ospały", "Opieszały", "Zasapany", "Zbzikowany", "Beztroski",
+var maleAdjectives = [
+"Zwinny", "Szybki", "Srebrny", "Różowy", "Złoty", "Zielonkawy", "Inkrustowany", "Ospały", "Opieszały", "Zasapany", "Zbzikowany", "Beztroski",
 "Wysportowany", "Zgrabny", "Dumny", "Wyjustowany", "Zdegustowany", "Zagubiona", "Szlachetny", "Nietuzinkowy", "Pomocny", "Spóźniony", "Zaspany", "Niewyspany",
 "Radioaktywny", "Szczery", "Szczęśliwy"
 ]
